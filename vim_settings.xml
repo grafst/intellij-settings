@@ -1,15 +1,40 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1489598774877">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/praktika/ADS/Aufgabe_4/src/TreeNodeTraversierungTest.java" timestamp="1489599286276">
+        <mark key="[" line="15" column="66" />
+        <mark key="]" line="15" column="73" />
+        <mark key="^" line="15" column="73" />
+        <mark key="." line="15" column="73" />
+      </file>
+      <file name="/fragment.java" timestamp="1489598880963">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/praktika/ADS/Aufgabe_4/src/BinaryTree.java" timestamp="1489599128065">
+        <mark key="[" line="14" column="6" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
