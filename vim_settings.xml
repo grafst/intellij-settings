@@ -3,24 +3,30 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1489598774877">
+      <file name="/Dummy.txt" timestamp="1489611165515">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/praktika/ADS/Aufgabe_4/src/TreeNodeTraversierungTest.java" timestamp="1489599286276">
-        <mark key="[" line="15" column="66" />
-        <mark key="]" line="15" column="73" />
-        <mark key="^" line="15" column="73" />
-        <mark key="." line="15" column="73" />
+      <file name="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/praktika/ADS/Aufgabe_4/src/TreeNodeTraversierungTest.java" timestamp="1489612029957">
+        <mark key="[" line="72" column="50" />
+        <mark key="]" line="72" column="50" />
+        <mark key="^" line="72" column="50" />
+        <mark key="." line="72" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1489598880963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/praktika/ADS/Aufgabe_4/src/BinaryTree.java" timestamp="1489599128065">
-        <mark key="[" line="14" column="6" />
-      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>else</text>
+      </register>
+      <register name="-" type="4">
+        <text>else</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -34,6 +40,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
