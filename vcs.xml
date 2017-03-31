@@ -10,8 +10,16 @@
           <option name="url" value="https://github.engineering.zhaw.ch/grafst04/whaisth.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="grafst" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aschwsam/ADS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\stephan\ownCloud\Documents\schule\zhaw\01b\prog1" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/praktikum3" />
   </component>
 </application>

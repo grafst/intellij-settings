@@ -5,6 +5,9 @@
   <action id="GenerateJavadoc">
     <keyboard-shortcut first-keystroke="shift ctrl f3" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
   <action id="Maven_83846af7whaisth594e8b6cpackage">
     <keyboard-shortcut first-keystroke="shift alt m" second-keystroke="p" />
   </action>
@@ -39,4 +42,5 @@
     <keyboard-shortcut first-keystroke="shift alt v" second-keystroke="p" />
   </action>
   <action id="UnselectPreviousOccurrence" />
+  <action id="hg4idea.QPushAction" />
 </keymap>
