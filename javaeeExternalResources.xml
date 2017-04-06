@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2" location="$USER_HOME$/.IdeaIC2017.1/system/extResources/48b8f268_assembly-1.1.2.xsd" />
+  </component>
+</application>
