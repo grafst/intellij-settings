@@ -18,8 +18,16 @@
           <option name="url" value="https://github.com/aschwsam/ADS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/grafst/SITtoSHIT.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/grafst/zhaw-evento.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/praktikum3" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Documents/schule/zhaw/02b/ads/" />
   </component>
 </application>

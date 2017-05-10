@@ -36,6 +36,7 @@
     <option name="SPACE_AFTER_TYPE_CAST" value="false" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="WRAP_LONG_LINES" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="6" />
       <option name="LABEL_INDENT_ABSOLUTE" value="true" />

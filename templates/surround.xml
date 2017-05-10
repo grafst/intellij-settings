@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="s" value="System.out.println($SELECTION$)" description="Sourround with print" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
