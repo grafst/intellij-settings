@@ -4,4 +4,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="q" value="&quot;$SELECTION$&quot;" description="quotation mark" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -17,6 +17,11 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ShowSettings" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
