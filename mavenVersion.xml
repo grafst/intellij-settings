@@ -1,0 +1,3 @@
+<application>
+  <component name="MavenVersion" vmOptions="-Xmx1024m" />
+</application>
