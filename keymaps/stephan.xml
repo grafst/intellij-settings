@@ -32,11 +32,13 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift alt v" second-keystroke="d" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift alt v" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="shift alt v" second-keystroke="p" />
