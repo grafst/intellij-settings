@@ -7,5 +7,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
+    <entry key="dumb.aware.run.configurations" value="true" />
   </component>
 </application>

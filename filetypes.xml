@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dic" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
